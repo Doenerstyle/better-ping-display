@@ -15,7 +15,7 @@ import net.minecraftforge.common.config.Configuration;
 @Mod(modid = BetterPingDisplayMod.MODID, version = "1.1", acceptableRemoteVersions="*")
 public class BetterPingDisplayMod {
 
-    static final String MODID = "betterpingdisplay";
+    static final String MODID = "BetterPing";
     
     static Logger logger = LogManager.getLogger("Better Ping Display");
 
