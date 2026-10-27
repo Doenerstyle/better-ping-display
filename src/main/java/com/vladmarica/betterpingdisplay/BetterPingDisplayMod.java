@@ -12,7 +12,7 @@ import cpw.mods.fml.relauncher.Side;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.common.config.Configuration;
 
-@Mod(modid = BetterPingDisplayMod.MODID, version = "1.1", acceptableRemoteVersions="*")
+@Mod(modid = BetterPingDisplayMod.MODID, version = "1.1.0", acceptableRemoteVersions="*")
 public class BetterPingDisplayMod {
 
     static final String MODID = "betterpingdisplay";
